@@ -33,3 +33,11 @@ The scan identified the following open ports:
  Conclusion
 
 The Nmap scan successfully identified open ports and running services on the local system. This project demonstrates the use of Nmap for basic network reconnaissance and service detection.
+
+ Learning Outcomes
+
+- Learned how to install and use Nmap for basic network scanning.
+- Understood how to identify open ports and running services on a system.
+- Gained knowledge about common network ports and their purposes.
+- Learned the importance of network reconnaissance in cybersecurity.
+- Improved understanding of basic network security assessment techniques.
